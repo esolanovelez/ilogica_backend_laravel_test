@@ -21,7 +21,7 @@ se deben seguir las siguientes instrucciones
 
 	1) Tener instalado un servidor web para php y el motor de base de datos postgres
     2) Tener instalado composer
-	3) Crear la base de datos con la instruccion ilogica_test_laravel;
+	3) Crear la base de datos con el ilogica_test_laravel;
     4) Ejecutar el siguiente comando en la raiz del directorio
 
         -   composer install
